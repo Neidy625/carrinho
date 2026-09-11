@@ -3,7 +3,7 @@
 # carrinho
 projeto de um veiculo mecátronico usando sucata de lixo eletrónico
 
-  ![](carrinho.webp)
+  ![](IMG_4605.jpeg)
 ##autores 
 - Neidy
 - Miguel
